@@ -1,0 +1,14 @@
+pillow
+scipy
+scikit-learn
+scikit-image
+imutils
+matplotlib
+requests
+beautifulsoup4
+h5py
+tensorflow
+textblob
+numpy
+opencv-contrib-python
+pytesseract

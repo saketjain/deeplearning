@@ -1,0 +1,33 @@
+# macOS system files
+.DS_Store
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# IDE-specific files (e.g., VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Editor backup files
+*~
+*.bak
+*.swp
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Environment variables
+.env
+
+# Database files (if applicable)
+*.sqlite3
